@@ -1,0 +1,209 @@
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 500
+Debitor Taras
+Creditor Oleg
+ 01.05.2018 - 11:16:09        Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
+Type COMMITED
+Amount 1500
+Debitor Alex
+Creditor Bata
+ 01.05.2018 - 11:16:09        
